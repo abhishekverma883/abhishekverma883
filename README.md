@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Verma
 - 👀 I’m interested in learning which are new to me, and specialize the skills.
-- 🌱 I’m currently learning DSA.
+- 🌱 Software Developer || Web Developer.
 - 💞️ I’m looking for the role of software engineer.
 - 📫 reach out to me 📧abhishekverma883.av@gmail.com.
 
